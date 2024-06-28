@@ -1,0 +1,32 @@
+h1 {
+  text-align: center;
+}
+
+p {
+  text-align: center;
+}
+
+body {
+  background-color: #f8e8a6;
+}
+
+img {
+  border-radius: 10px;
+  max-width: 100%;
+  margin: 10px auto 30px;
+}
+
+.container {
+  display: flex;
+  justify-content: center;
+}
+
+.links {
+  display: flex;
+  justify-content: center;
+}
+
+.links a {
+  margin: auto 12px;
+  color: #008000;
+}
